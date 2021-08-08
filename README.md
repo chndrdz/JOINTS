@@ -1,5 +1,5 @@
 ## Overview
-- in this project i try to built a machine learning model to predict (Binary Classification) whether the existing insurance customers want to continue their insurance services or not
+- in this project i try to built a machine learning model to predict (Binary Classification) whether the existing insurance customers want to continue their insurance services or not. measured using mean f-score [ranked 11th out of 44 teams]
 - Implemented EDA using Pandas and Seaborn; preprocessing using pandas, and scikit-learn; modeling and hyperparameter tuning of Random Forest and XGBoost
 
 ## Tools
